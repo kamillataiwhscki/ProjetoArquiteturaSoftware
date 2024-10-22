@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\concretedecorators\\coberturachocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\concretedecorators\\coberturachocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\concretedecorators\\copoicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\concretedecorators\\copoicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\abstractdecorators\\icecreamdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\abstractdecorators\\icecreamdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\simpleicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\simpleicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\concretedecorators\\coberturacaramelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\concretedecorators\\coberturacaramelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\iicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\iicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\concretedecorators\\tacaicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\concretedecorators\\tacaicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|c:\\users\\kamilla\\source\\repos\\sorveteriadecorator\\sorveteriadecorator\\concretedecorators\\coberturamorango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AD2A0C-203B-4CD1-8E4E-C10D6669B586}|SorveteriaDecorator\\SorveteriaDecorator.csproj|solutionrelative:sorveteriadecorator\\concretedecorators\\coberturamorango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoberturaCaramelo.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CoberturaCaramelo.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\concreteDecorators\\CoberturaCaramelo.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CoberturaCaramelo.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\concreteDecorators\\CoberturaCaramelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:38:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoberturaChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CoberturaChocolate.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\concreteDecorators\\CoberturaChocolate.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CoberturaChocolate.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\concreteDecorators\\CoberturaChocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:38:40.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoberturaMorango.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CoberturaMorango.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\concreteDecorators\\CoberturaMorango.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CoberturaMorango.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\concreteDecorators\\CoberturaMorango.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:38:30.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TacaIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\TacaIceCream.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\concreteDecorators\\TacaIceCream.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\TacaIceCream.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\concreteDecorators\\TacaIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:32:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CopoIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CopoIceCream.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\concreteDecorators\\CopoIceCream.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\concreteDecorators\\CopoIceCream.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\concreteDecorators\\CopoIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:30:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\Program.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\Program.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:20:43.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IceCreamDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\abstractDecorators\\IceCreamDecorator.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\abstractDecorators\\IceCreamDecorator.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\abstractDecorators\\IceCreamDecorator.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\abstractDecorators\\IceCreamDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:28:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\SimpleIceCream.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\SimpleIceCream.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\SimpleIceCream.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\SimpleIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:24:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\IIceCream.cs",
+              "RelativeDocumentMoniker": "SorveteriaDecorator\\IIceCream.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\SorveteriaDecorator\\SorveteriaDecorator\\IIceCream.cs",
+              "RelativeToolTip": "SorveteriaDecorator\\IIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:23:08.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

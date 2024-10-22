@@ -1,0 +1,14 @@
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\bin\Debug\net8.0\SorveteriaDecorator.exe
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\bin\Debug\net8.0\SorveteriaDecorator.deps.json
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\bin\Debug\net8.0\SorveteriaDecorator.runtimeconfig.json
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\bin\Debug\net8.0\SorveteriaDecorator.dll
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\bin\Debug\net8.0\SorveteriaDecorator.pdb
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\SorveteriaDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\SorveteriaDecorator.AssemblyInfoInputs.cache
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\SorveteriaDecorator.AssemblyInfo.cs
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\SorveteriaDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\SorveteriaDecorator.dll
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\refint\SorveteriaDecorator.dll
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\SorveteriaDecorator.pdb
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\SorveteriaDecorator.genruntimeconfig.cache
+C:\Users\Kamilla\source\repos\SorveteriaDecorator\SorveteriaDecorator\obj\Debug\net8.0\ref\SorveteriaDecorator.dll
