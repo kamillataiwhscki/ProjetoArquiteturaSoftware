@@ -1,0 +1,14 @@
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\bin\Debug\net8.0\ManagerClassroom.exe
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\bin\Debug\net8.0\ManagerClassroom.deps.json
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\bin\Debug\net8.0\ManagerClassroom.runtimeconfig.json
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\bin\Debug\net8.0\ManagerClassroom.dll
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\bin\Debug\net8.0\ManagerClassroom.pdb
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ManagerClassroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ManagerClassroom.AssemblyInfoInputs.cache
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ManagerClassroom.AssemblyInfo.cs
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ManagerClassroom.csproj.CoreCompileInputs.cache
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ManagerClassroom.dll
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\refint\ManagerClassroom.dll
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ManagerClassroom.pdb
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ManagerClassroom.genruntimeconfig.cache
+C:\Users\Kamilla\source\repos\ManagerClassroom\ManagerClassroom\obj\Debug\net8.0\ref\ManagerClassroom.dll

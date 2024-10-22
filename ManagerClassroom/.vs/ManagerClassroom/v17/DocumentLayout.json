@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|c:\\users\\kamilla\\source\\repos\\managerclassroom\\managerclassroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|solutionrelative:managerclassroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|c:\\users\\kamilla\\source\\repos\\managerclassroom\\managerclassroom\\classroom\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|solutionrelative:managerclassroom\\classroom\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|c:\\users\\kamilla\\source\\repos\\managerclassroom\\managerclassroom\\classroom\\planclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|solutionrelative:managerclassroom\\classroom\\planclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|c:\\users\\kamilla\\source\\repos\\managerclassroom\\managerclassroom\\classroom\\manageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|solutionrelative:managerclassroom\\classroom\\manageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|c:\\users\\kamilla\\source\\repos\\managerclassroom\\managerclassroom\\classroom\\canceledclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|solutionrelative:managerclassroom\\classroom\\canceledclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|c:\\users\\kamilla\\source\\repos\\managerclassroom\\managerclassroom\\classroom\\startclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|solutionrelative:managerclassroom\\classroom\\startclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|c:\\users\\kamilla\\source\\repos\\managerclassroom\\managerclassroom\\classroom\\finishedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A38ED-C792-4727-9AA0-A0B5067CBD39}|ManagerClassroom\\ManagerClassroom.csproj|solutionrelative:managerclassroom\\classroom\\finishedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CanceledClass.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\CanceledClass.cs",
+              "RelativeDocumentMoniker": "ManagerClassroom\\classroom\\CanceledClass.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\CanceledClass.cs",
+              "RelativeToolTip": "ManagerClassroom\\classroom\\CanceledClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:00:00.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinishedClass.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\FinishedClass.cs",
+              "RelativeDocumentMoniker": "ManagerClassroom\\classroom\\FinishedClass.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\FinishedClass.cs",
+              "RelativeToolTip": "ManagerClassroom\\classroom\\FinishedClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:59:36.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartClass.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\StartClass.cs",
+              "RelativeDocumentMoniker": "ManagerClassroom\\classroom\\StartClass.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\StartClass.cs",
+              "RelativeToolTip": "ManagerClassroom\\classroom\\StartClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:59:17.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanClass.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\PlanClass.cs",
+              "RelativeDocumentMoniker": "ManagerClassroom\\classroom\\PlanClass.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\PlanClass.cs",
+              "RelativeToolTip": "ManagerClassroom\\classroom\\PlanClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:58:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageClass.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\ManageClass.cs",
+              "RelativeDocumentMoniker": "ManagerClassroom\\classroom\\ManageClass.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\ManageClass.cs",
+              "RelativeToolTip": "ManagerClassroom\\classroom\\ManageClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:56:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\Program.cs",
+              "RelativeDocumentMoniker": "ManagerClassroom\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\Program.cs",
+              "RelativeToolTip": "ManagerClassroom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:15.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\Classroom.cs",
+              "RelativeDocumentMoniker": "ManagerClassroom\\classroom\\Classroom.cs",
+              "ToolTip": "C:\\Users\\Kamilla\\source\\repos\\ManagerClassroom\\ManagerClassroom\\classroom\\Classroom.cs",
+              "RelativeToolTip": "ManagerClassroom\\classroom\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:57:52.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
