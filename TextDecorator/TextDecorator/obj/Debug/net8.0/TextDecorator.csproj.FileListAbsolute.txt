@@ -1,0 +1,15 @@
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\bin\Debug\net8.0\TextDecorator.exe
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\bin\Debug\net8.0\TextDecorator.deps.json
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\bin\Debug\net8.0\TextDecorator.runtimeconfig.json
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\bin\Debug\net8.0\TextDecorator.dll
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\bin\Debug\net8.0\TextDecorator.pdb
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.AssemblyInfoInputs.cache
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.AssemblyInfo.cs
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.sourcelink.json
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.dll
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\refint\TextDecorator.dll
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.pdb
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\TextDecorator.genruntimeconfig.cache
+C:\Users\Kamilla\source\repos\PAS\ProjetoArquiteturaSoftaware\TextDecorator\TextDecorator\obj\Debug\net8.0\ref\TextDecorator.dll
